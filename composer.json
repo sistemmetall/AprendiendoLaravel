@@ -1,0 +1,22 @@
+{ "name": "Primer/Ej Composer",
+   "Description":"Primer Ejemplo de Composer",
+   "type":"project",
+   "authors":[
+             {"name":"William Rodriguez",
+			  "email":"wmrz0282@gmail.com",
+			  "role":"student"
+			 
+			 }
+	],
+    "require":{
+	"php":">=5.3.0",
+      "dompdf/dompdf": "0.6.*"
+	},
+	"autoload":{
+	 
+	 
+	    
+	
+	}
+
+}
